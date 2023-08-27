@@ -1,3 +1,7 @@
+""" 
+Dicionario aninhado
+"""
+#o email no exemplo é a chave de cada dicionaio aninhaddo
 contatos = {
     "guilherme@gmail.com": {"nome": "Guilherme", "telefone": "3333-2221"},
     "giovanna@gmail.com": {"nome": "Giovanna", "telefone": "3443-2121"},
