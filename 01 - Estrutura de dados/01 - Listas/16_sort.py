@@ -6,6 +6,7 @@ linguagens = ["python", "js", "c", "java", "csharp"]
 linguagens.sort(reverse=True)  # ["python", "js", "java", "csharp", "c"]
 print(linguagens)
 
+# ordena de acordo com tamanho da palavra - se tamanho igual prevalece a precedencia
 linguagens = ["python", "js", "c", "java", "csharp"]
 linguagens.sort(key=lambda x: len(x))  # ["c", "js", "java", "python", "csharp"]
 print(linguagens)

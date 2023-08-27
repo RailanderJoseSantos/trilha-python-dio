@@ -1,3 +1,6 @@
+#tuplas devem ser finalizadas por "," uma boa pratica pra evitar que python interprete o parentese ou colchetes
+#como precedencia
+
 frutas = (
     "laranja",
     "pera",

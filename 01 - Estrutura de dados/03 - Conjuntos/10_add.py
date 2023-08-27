@@ -1,3 +1,6 @@
+""" 
+passa se um elemento, se ele não existir sera adicionado
+"""
 sorteio = {1, 23}
 
 sorteio.add(25)  # {1, 23, 25}
